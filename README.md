@@ -1,1 +1,1 @@
-# OTP-GEnerator
+# OTP-Generator
